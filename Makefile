@@ -1,7 +1,11 @@
 CC = gcc
+
 CFLAGS = -Wall -Wextra
+
 NAME = program
+
 SRC = main.c
+
 OBJ = $(SRC:.c=.o)
 
 all: $(NAME)
