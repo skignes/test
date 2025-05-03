@@ -1,3 +1,10 @@
+##
+## EPITECH PROJECT, 2025
+## tester
+## File description:
+## Makefile
+##
+
 CC = gcc
 
 CFLAGS = -Wall -Wextra
