@@ -9,7 +9,7 @@ CC = gcc
 
 CFLAGS = -Wall -Wextra
 
-NAME = program
+NAME = ftrace
 
 SRC = main.c
 
